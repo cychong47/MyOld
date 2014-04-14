@@ -1,0 +1,4 @@
+MyOld
+=====
+
+One Line Diary
